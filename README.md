@@ -71,8 +71,9 @@ This helps startups:
 3. Install dependencies:
 
 4. Run the app:
+  OR "streamlit run frontend/app.py" (type in terminal)
 
-5. Open in browser:
+6. Open in browser:
 
 ---
 
